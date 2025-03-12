@@ -1,6 +1,4 @@
-
-
-void main(){
-    var text = "this is text";
-    print("$text");
+void main() {
+  var text = "this is text";
+  print(text);
 }
